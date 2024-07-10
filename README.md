@@ -79,4 +79,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ritz10001/ritz10001/output/snake.svg" alt="Snake animation" />
