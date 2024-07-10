@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ritvik Prakash and I'm an aspiring software developer, studying BS CS @ Texas Tech</h2>
+<h2 align="left">Howdy 👋! I'm is Ritvik Prakash and I'm an aspiring software developer, studying BS CS @ Texas Tech</h2>
 
 ###
 
@@ -8,8 +8,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
