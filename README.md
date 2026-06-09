@@ -11,29 +11,41 @@
 </div>
 
 Hey! I'm Ritvik Prakash, an aspiring software developer and a Computer Science graduate from Texas Tech University. I absolutely love to build full-stack AI web apps, and recently, I've really been getting into hackathons and the startup culture. Most days you'll find me building projects and leveling up one commit at a time. Feel free to contact me anytime!
-Tech Stack
-Languages
+
+# Tech Stack
+
+## Languages
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,cs,cpp,c,java,kotlin" alt="languages"/>
 </div>
-Frontend & Mobile
+
+## Frontend & Mobile
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react,html,css,flutter" alt="frontend"/>
 </div>
-Backend & Runtime
+
+## Backend & Runtime
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" alt="backend"/>
 </div>
-Databases
+
+## Databases
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="databases"/>
 </div>
-Tools & Engines
+
+## Tools & Engines
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,github,unity,npm,vscode,visualstudio" alt="tools"/>
 </div>
 
-GitHub Stats
+## GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ritz10001&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=dracula&hide_border=true&bg_color=282A36&title_color=bd93f9&icon_color=8be9fd&text_color=f8f8f2&card_width=420" height="180" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritz10001&theme=dracula&hide_border=true&background=282A36&ring=bd93f9&fire=ff79c6&currStreakLabel=8be9fd&stroke=44475a&dates=6272a4&sideLabels=f8f8f2&card_width=420" height="180" alt="streak" />
@@ -43,9 +55,6 @@ GitHub Stats
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritz10001&theme=react-dark&hide_border=true&bg_color=282A36&color=bd93f9&line=ff79c6&point=8be9fd&area=true&area_color=bd93f9&radius=8" width="100%" alt="activity graph" />
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ritz10001&theme=dracula&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 </div>
 
 Connect With Me
