@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=200&section=header&text=Ritvik%20Prakash&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=BS%20Computer%20Science%20@%20Texas%20Tech&descAlignY=56&descSize=18&descColor=bd93f9" width="100%" alt="header"/>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Howdy!+I'm+Ritvik+%F0%9F%91%8B;Aspiring+Software+Developer;Full-Stack+%7C+Game+Dev+%7C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Howdy!+I'm+Ritvik+(or+Ritz)+%F0%9F%91%8B;Aspiring+Software/Fullstack+Developer;+Always+Building!" alt="Typing SVG" />
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ritz10001&style=for-the-badge&color=bd93f9&label=PROFILE+VIEWS" alt="profile views"/>
@@ -10,8 +10,7 @@
   <img src="https://img.shields.io/badge/Lubbock,_Texas-282A36?style=for-the-badge&logo=googlemaps&logoColor=bd93f9" alt="location"/>
 </div>
 
-Hey! I'm Ritvik Prakash, an aspiring software developer and a Computer Science graduate from Texas Tech University. I mostly build full-stack AI web apps, but I've been getting into . Most days you'll find me building projects and leveling up one commit at a time. Feel free to ask me about JavaScript, React, .NET, or Unity.
-
+Hey! I'm Ritvik Prakash, an aspiring software developer and a Computer Science graduate from Texas Tech University. I absolutely love to build full-stack AI web apps, and recently, I've really been getting into hackathons and the startup culture. Most days you'll find me building projects and leveling up one commit at a time. Feel free to contact me anytime!
 Tech Stack
 Languages
 <div align="left">
